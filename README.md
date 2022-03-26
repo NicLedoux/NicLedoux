@@ -12,4 +12,4 @@ I work from 🏡 designing email marketing campaigns using CSS and HTML.
 
 
 
-[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicLedoux&theme=slateorange)](https://github.com/NicLedoux/github-readme-stats)
+[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicLedoux&theme=slateorange)](https://github.com/NicLedoux/)
