@@ -9,3 +9,7 @@ I work from 🏡 designing email marketing campaigns using CSS and HTML.
 🌱 I’m currently exapnding my knowldege of CSS, HTML and Javascript while participating in #100devs, CodeWars and CodeWell.
 
 📫 Reach me on Twitter @NicLedoux...
+
+
+
+[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicLedoux&theme=slateorange)](https://github.com/NicLedoux/github-readme-stats)
