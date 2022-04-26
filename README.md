@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/fdT3l2r.jpg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Nic</h1>
 <h3 align="center">Software Engineer at @100Devs</h3>
 
