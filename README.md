@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://nicledoux.com/assets/NicLedouxResume.pdf](https://nicledoux.com/assets/NicLedouxResume.pdf)
 
+- ⚡ Fun fact **Ledoux (pronounced leh-doo) is a popular French Canadian surname. It translates to "The Sweet"** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nicledoux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nicledoux" height="30" width="40" /></a>
