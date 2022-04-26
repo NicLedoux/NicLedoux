@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://nicledoux.com/assets/NicLedouxResume.pdf](https://nicledoux.com/assets/NicLedouxResume.pdf)
 
-- ⚡ Fun fact **Ledoux (pronounced leh-doo) is a popular French Canadian surname. It translates to "The Sweet"** 
+- ⚡ Fun fact: **Ledoux (pronounced leh-doo) is a popular French Canadian surname. It translates to "The Sweet"** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
