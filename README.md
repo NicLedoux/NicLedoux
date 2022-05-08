@@ -37,5 +37,9 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicledoux&show_icons=true&locale=en" alt="nicledoux" /></p><p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicLedoux&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF)](https://git.io/streak-stats)
+  </p>
+  <p aling="center>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicledoux&" alt="nicledoux" />
+  
+  
 </p>
