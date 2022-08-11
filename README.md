@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nicledoux.com/](https://nicledoux.com/)
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **contact@NicLedoux.com**
 
