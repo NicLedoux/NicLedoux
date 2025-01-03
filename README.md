@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio.](https://nicledoux.com/)
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **JavaScript & Python**
 
 - 👨‍💻 All of my projects are available at [https://nicledoux.com/](https://nicledoux.com/)
 
